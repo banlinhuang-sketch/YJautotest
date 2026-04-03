@@ -125,6 +125,7 @@ docker-compose down -v
 
 - [API Key 配置详解](./YJTest_MCP/API_KEY_SETUP.md)
 - [MCP 服务文档](./YJTest_MCP/README.md)
+- [Ubuntu 部署指南](./ubuntu-deployment.md)
 
 ---
 

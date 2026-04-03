@@ -103,8 +103,8 @@ AI驱动的需求质量评估，提前识别潜在风险：
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/MGdaasLab/YJTest.git
-cd YJTest
+git clone https://github.com/banlinhuang-sketch/YJautotest.git
+cd YJautotest
 
 # 2. 准备配置（使用默认配置，包含自动生成的API Key）
 cp .env.example .env
@@ -171,6 +171,7 @@ DOCKER_BUILD_NO_CACHE=1 ./run_compose.sh local
 详细的部署说明请参考：
 
 - [快速启动指南](./docs/QUICK_START.md) - **推荐新用户阅读**
+- [Ubuntu 部署指南](./docs/ubuntu-deployment.md) - 服务器部署推荐入口
 - [GitHub 自动构建部署指南](./docs/github-docker-deployment.md)
 - [完整部署文档](https://mgdaaslab.github.io/YJTest/)
 
